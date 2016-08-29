@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: ZHUYI
 email: zhuyiif@gmail.com
-description: > Try everything.
+description: Try everything.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://example.com" # the base hostname & protocol for your site
 github_username:  zhuyiif
