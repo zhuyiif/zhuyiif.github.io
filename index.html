@@ -14,12 +14,15 @@ layout: default
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}
          <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
-           <h4>
+          
+
+      <font size="4"> 
       <li>
         {{ post.title }}
       <small class="post-date">{{ post.date | date_to_string }}</small>
       </li>
-           </h4>
+      </font>
+           
       </a>
       {% endfor %}
     </ul>
