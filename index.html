@@ -13,11 +13,13 @@ layout: default
     <h4 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h4>
     <ul class="tags-expo-posts">
       {% for post in tag[1] %}
-        <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+         <a class="post-title" href="{{ site.baseurl }}{{ post.url }}">
+           <h4>
       <li>
         {{ post.title }}
       <small class="post-date">{{ post.date | date_to_string }}</small>
       </li>
+           </h4>
       </a>
       {% endfor %}
     </ul>
