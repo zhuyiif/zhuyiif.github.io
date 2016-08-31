@@ -39,7 +39,7 @@ Responsibility:
 - Optimize the performance of showing images.
 
 
-## 22006/10 - 2011/05, Beijing/Chengdu Tieto
+## 2006/10 - 2011/05, Beijing/Chengdu Tieto
 Title: Senior Software Engineer   
 Responsibility:
 - Maintain  UpnP Framework , Symbian  .
