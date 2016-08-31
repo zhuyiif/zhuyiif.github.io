@@ -56,12 +56,15 @@ Responsibility:
 
 
 ## Professional Skills
-
-- C/C++  5+ year
-- Core Java 2 year
-- Android  1 year
-- iOS  Object C 2+year
-- Python 3 month
+- iOS  Object C 
+- C/C++  
+- Java 
+- Android  
+- Python 
+- Docker 
+- Jenkins
+- AWS
+- Angular/JavaScript
 - Certified scrum master
 
 
