@@ -6,13 +6,15 @@ subtitle: Why you'd want to go on a date with me
 
 
 # Personal Info
--  Name: Zac Zhu   
-- Place of birth: Hubei Province  
-- Marital status: Married   
-- E-mail: 36757049@qq.com  
+-  Name: Zack Zhu   
+- E-mail: zhuyiif@gmail.com  
 
 #  Work Experience  
-## 2011/07 – till now, Tencent Chengdu  
+
+## 2015/06 – now, Daqri 
+Title: Software Engineer   
+
+## 2011/07 – 2015/03, Tencent Chengdu  
 Title: Mobile Software Engineer   
 Responsibility:
 ### Developed New QQ Contact (iOS,Top 1 in App Store)  
