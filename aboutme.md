@@ -39,16 +39,19 @@ Responsibility:
 - Optimize the performance of showing images.
 
 
-## 22006/10 - 2011/05, Beijing/Chengdu, Tieto Title: Senior Software Engineer   
+## 22006/10 - 2011/05, Beijing/Chengdu
+Tieto Title: Senior Software Engineer   
  
 - Maintain  UpnP Framework , Symbian  .
 - Maintain  Mail For Exchange Framework ,Symbian
 - Developed/Maintain  Video Player ,Symbian
 
 
-## 2004/08 - 2006/09, Beijing, InterGrafx Title: Software Engineer 
+## 2004/08 - 2006/09, Beijing, InterGrafx 
+Title: Software Engineer 
 - Developed 3D Screen Saver application in Symbian/MTK platform.
 - Developed 3D Game 
+
 
 ## Education
 
