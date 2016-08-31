@@ -17,14 +17,9 @@ Title: Software Engineer
 ## 2011/07 – 2015/03, Tencent Chengdu  
 Title: Mobile Software Engineer   
 
-### Developed New QQ Contact (iOS,Top 1 in App Store)  
-
-### Developed QQ Contacts (50 million users,was Rank top 3 in  iOS App Store Tool Category)  
-  
-
-### Developed WeChat Home(Android) (20k users)  
-
-
+-  Developed New QQ Contact (iOS,Top 1 in App Store)  
+-  Developed QQ Contacts (50 million users,was Rank top 3 in  iOS App Store Tool Category)  
+-  Developed WeChat Home(Android) (20k users)  
 
 ## 2006/10 - 2011/05, Beijing/Chengdu Tieto
 Title: Senior Software Engineer   
