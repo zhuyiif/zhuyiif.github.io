@@ -39,9 +39,9 @@ Responsibility:
 - Optimize the performance of showing images.
 
 
-## 22006/10 - 2011/05, Beijing/Chengdu
-Tieto Title: Senior Software Engineer   
- 
+## 22006/10 - 2011/05, Beijing/Chengdu Tieto
+Title: Senior Software Engineer   
+Responsibility:
 - Maintain  UpnP Framework , Symbian  .
 - Maintain  Mail For Exchange Framework ,Symbian
 - Developed/Maintain  Video Player ,Symbian
@@ -49,6 +49,7 @@ Tieto Title: Senior Software Engineer
 
 ## 2004/08 - 2006/09, Beijing, InterGrafx 
 Title: Software Engineer 
+Responsibility:
 - Developed 3D Screen Saver application in Symbian/MTK platform.
 - Developed 3D Game 
 
