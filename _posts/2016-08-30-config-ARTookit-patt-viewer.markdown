@@ -6,7 +6,7 @@ categories: ops
 ---
 # pattviewer
 
-`https://github.com/zhuyiif/pattviewer`
+[pattviewerGitHub](https://github.com/zhuyiif/pattviewer)
 
 研究ARTookit的时候发现marker文件(patt)没有相应的viewer,google又搜索不到，干脆自己写一个了.
 
