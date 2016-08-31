@@ -16,7 +16,7 @@ Title: Software Engineer
 
 ## 2011/07 – 2015/03, Tencent Chengdu  
 Title: Mobile Software Engineer   
-Responsibility:
+
 ### Developed New QQ Contact (iOS,Top 1 in App Store)  
 - Designed and implemented Muti-Person Voice UI Module  
 - Refactor UI Code ,developed contact UI, search UI, and developed most of the common UI Controls.  
@@ -41,7 +41,7 @@ Responsibility:
 
 ## 2006/10 - 2011/05, Beijing/Chengdu Tieto
 Title: Senior Software Engineer   
-Responsibility:
+
 - Maintain  UpnP Framework , Symbian  .
 - Maintain  Mail For Exchange Framework ,Symbian
 - Developed/Maintain  Video Player ,Symbian
@@ -49,7 +49,7 @@ Responsibility:
 
 ## 2004/08 - 2006/09, Beijing, InterGrafx 
 Title: Software Engineer 
-Responsibility:
+
 - Developed 3D Screen Saver application in Symbian/MTK platform.
 - Developed 3D Game 
 
