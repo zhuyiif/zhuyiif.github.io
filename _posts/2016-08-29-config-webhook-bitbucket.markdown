@@ -5,7 +5,7 @@ date:   2016-08-29 11:39:12 -0700
 categories: ops
 ---
 * make sure your project have already set it up on Jenkins.
-go to the Bitbucket of your repo  e.g. https://bitbucket.org/daqri1/melonv2tonetest
+go to the Bitbucket of your repo  e.g. `https://yourbitbucketrepo`
 go the Settings →Webhooks (if you can not find Settings in your repo, you probably not a admin)  
 * click 'Add webhook', and put a name , the url is `http://yourjenkinswebhookurl`
 * go to the Jenkins job page, and go to configure,  
