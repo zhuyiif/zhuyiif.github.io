@@ -1,6 +1,3 @@
-[submodule "。"]
-	path = 。
-	url = https://github.com/zhuyiif/PattersGameForKid
 [submodule "PattersGameForKid"]
 	path = PattersGameForKid
 	url = https://github.com/zhuyiif/PattersGameForKid
