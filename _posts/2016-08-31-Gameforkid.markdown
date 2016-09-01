@@ -6,6 +6,8 @@ categories: ops
 ---
 开发中...
 
+[My page](/gameindex.html)
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
