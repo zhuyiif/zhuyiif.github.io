@@ -17,7 +17,7 @@ to summon a defendant.
 to summon parliament.
 * to call into action; rouse; call forth (often. followed by up):
 
-总之就是有召集的意思， 那么跟那个`Shaman`有什么渊源呢,
+总之就是有召集的意思， 那么跟那个`Shaman`有什么渊源呢,看例句，
 `shaman summon totems that focus the elements to support the shaman’s allies or punish those who threaten them`
 翻译过来`萨满能召唤这些图腾来强化元素力量,治疗队友,或者伤害敌人`
 
