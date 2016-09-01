@@ -9,13 +9,13 @@ categories: english
 一查字典果然是.
 
 * `summon 英 'sʌmən  美 'sʌmən ,verb (used with object)
-1.to call upon to do something specified.
-2.to call for the presence of, as by command, message, or signal; call.
-3.to call or notify to appear at a specified place, especially before a court:
+* to call upon to do something specified.
+* to call for the presence of, as by command, message, or signal; call.
+* to call or notify to appear at a specified place, especially before a court:
 to summon a defendant.
-4.to authorize or order a gathering of; call together by authority, as for deliberation or action:
+* to authorize or order a gathering of; call together by authority, as for deliberation or action:
 to summon parliament.
-5.to call into action; rouse; call forth (often. followed by up):
+* to call into action; rouse; call forth (often. followed by up):
 
 总之就是有召集的意思， 那么跟那个`Shaman`有什么渊源呢,
 `shaman summon totems that focus the elements to support the shaman’s allies or punish those who threaten them`
