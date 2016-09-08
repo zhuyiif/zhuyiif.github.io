@@ -6,8 +6,9 @@ categories: iOS
 ---
 
 前几个Pokeman Go太流行了，对我我这种懒人是不喜欢到处跑来跑去的，所以想到开发一个简单的应用模拟位置，
-然后就可以在公司一直打怪升级了，
-* [Source Code](https://github.com/zhuyiif/location-simulation)  
+然后就可以在公司一直打怪升级了
+
+# [Source Code](https://github.com/zhuyiif/location-simulation)  
 
 # gps-simulation
 Simulate locations using GPX files.  
