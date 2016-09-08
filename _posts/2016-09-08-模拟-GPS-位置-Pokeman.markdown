@@ -34,3 +34,8 @@ iOS is now cycling through the location points in the GPX file!
 * Select scheme ```gps-simulator``` -> Edit Scheme
  
 * Click on the ```Default Location``` dropdown and select your GPX file
+* 
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
