@@ -7,6 +7,7 @@ categories: ops
 开发中...
 
 [My page](/PattersGameForKid/gameindex.html)
+[VR View](/vrview/index.html)
 
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
