@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "AR游戏一定会取代3D游戏"
+date:   2016-09-27 11:39:12 -0700
+categories: 随笔
+---
+
+3D技术发展了这么多年，技术也很成熟了，但是3D游戏一直也不是太火，为什么还是不够吸引人呢？
+因为不够真实，pokmen能火因为借助了map和AR，因为很真实，无论是VR还是AR一定要让用户分辨不是现实和虚幻才好。
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
